@@ -12,7 +12,7 @@ Este repositório contém as telas da Landing Page do projeto, que são:
 
 1. **Página Inicial**:
 <br />
-![Página Inicial - Index](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/1d36833a-bda9-4a6b-92a1-47a604b90a0b)
+![Página Inicial - Index](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/8aa1a997-153b-4bab-9661-7db2a7a40f4d)
 <hr />
 
 3. **Primeiros Socorros**: Informações úteis e instruções de primeiros socorros para diferentes condições médicas.
