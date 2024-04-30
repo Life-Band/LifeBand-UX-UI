@@ -22,10 +22,29 @@ Este repositório contém as telas da Landing Page do projeto, que são:
 
 <hr />  
 
-4. **Pulseira**: Detalhes sobre a pulseira inteligente, seu funcionamento e como ela auxilia no monitoramento de saúde.
-5. **Vídeos**: Recursos visuais explicativos, tutoriais ou depoimentos relacionados ao LifeBand.
-6. **Contato**: Formulário de contato para tirar dúvidas, fornecer feedback ou solicitar informações adicionais.
-7. **Equipe**: Apresentação dos membros da equipe por trás do desenvolvimento do LifeBand.
+3. **Pulseira**: Detalhes sobre a pulseira inteligente, seu funcionamento e como ela auxilia no monitoramento de saúde.
+![Pulseira](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/33907f0d-8419-4ea1-8326-65685f5f6344)
+
+
+<hr />  
+   
+4. **Vídeos**:
+![Videos](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/f9c951ef-c8a3-4249-9e53-9566f7776ead)
+
+
+<hr />  
+
+5. **Contato**:
+![Contato](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/7f6b987a-7e8f-49fb-8654-ddb4d8ba8766)
+
+
+<hr />
+   
+6. **Equipe**: 
+![Equipe](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/0fb19950-928b-4291-bc3a-21668bffa3ac)
+
+
+<hr />
 
 ## Como Visualizar as Telas
 
