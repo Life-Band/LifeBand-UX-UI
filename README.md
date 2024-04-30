@@ -23,7 +23,7 @@ Este repositório contém as telas da Landing Page do projeto, que são:
 <hr />  
 
 3. **Pulseira**: Detalhes sobre a pulseira inteligente, seu funcionamento e como ela auxilia no monitoramento de saúde.
-![Pulseira](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/33907f0d-8419-4ea1-8326-65685f5f6344)
+![Pulseira](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/cd7a798b-ce54-4f17-8e67-b7f35ca8b48c)
 
 
 <hr />  
