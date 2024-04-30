@@ -12,7 +12,7 @@ Este repositório contém as telas da Landing Page do projeto, que são:
 
 1. **Página Inicial**:
 <br />
-<img src="./UX-UI/PaginaInicial.jpg" />
+<img src="PaginaInicial.jpg" />
 <hr />
 
 3. **Primeiros Socorros**: Informações úteis e instruções de primeiros socorros para diferentes condições médicas.
