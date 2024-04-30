@@ -48,7 +48,7 @@ Este repositório contém as telas da Landing Page do projeto, que são:
 
 ## Como Visualizar as Telas
 
-Para visualizar as telas da Landing Page do LifeBand, basta navegar pelas pastas deste repositório. Cada tela está organizada logo acima para facilitar o entendimento e a visualização.
+Cada tela está organizada logo acima para facilitar o entendimento e a visualização.
 
 ## Contribuições
 
