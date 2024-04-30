@@ -11,7 +11,8 @@ O LifeBand é uma iniciativa voltada para otimizar o atendimento nos hospitais p
 Este repositório contém as telas da Landing Page do projeto, que são:
 
 1. **Página Inicial**:
-[Página Inicial - Index](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/b82b1634-0a30-4a27-a1e4-2a7df63446de)
+https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/b82b1634-0a30-4a27-a1e4-2a7df63446de
+
 3. **Primeiros Socorros**: Informações úteis e instruções de primeiros socorros para diferentes condições médicas.
 4. **Pulseira**: Detalhes sobre a pulseira inteligente, seu funcionamento e como ela auxilia no monitoramento de saúde.
 5. **Vídeos**: Recursos visuais explicativos, tutoriais ou depoimentos relacionados ao LifeBand.
