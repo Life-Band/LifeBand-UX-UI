@@ -11,7 +11,6 @@ O LifeBand é uma iniciativa voltada para otimizar o atendimento nos hospitais p
 Este repositório contém as telas da Landing Page do projeto, que são:
 
 1. **Página Inicial**:
-<br />
 <img src="PaginaInicial.jpg" />
 <hr />
 
