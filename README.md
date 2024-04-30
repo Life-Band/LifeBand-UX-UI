@@ -16,7 +16,12 @@ Este repositório contém as telas da Landing Page do projeto, que são:
 
 <hr />
 
-3. **Primeiros Socorros**: Informações úteis e instruções de primeiros socorros para diferentes condições médicas.
+2. **Primeiros Socorros**:
+![PrimeirosSocorros](https://github.com/Life-Band/LifeBand-UX-UI/assets/111926496/68e6aef3-2c0e-4cfd-86f6-f59e84b34523)
+
+
+<hr />  
+
 4. **Pulseira**: Detalhes sobre a pulseira inteligente, seu funcionamento e como ela auxilia no monitoramento de saúde.
 5. **Vídeos**: Recursos visuais explicativos, tutoriais ou depoimentos relacionados ao LifeBand.
 6. **Contato**: Formulário de contato para tirar dúvidas, fornecer feedback ou solicitar informações adicionais.
